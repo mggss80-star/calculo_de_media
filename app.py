@@ -1,10 +1,3 @@
-# CALCULAR MÉDIA #
-Descrição do meu programa 
-
-***
-
-# Tecnlogias utilizadas
-```
 def calcular_media(nota1, nota2):
     return (nota1 + nota2) / 2
 
